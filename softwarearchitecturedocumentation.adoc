@@ -1,8 +1,11 @@
-= Software Architecture Documentation with arc42, C4 Model and Documentation as Code
-
-:toc:
+= CAS SA: Software Architecture Documentation: Working questions & answers
+:toc: auto
+:url-repo: https://github.com/bitsmuggler/cas-sa-questions-answers
 
 include::arc42.adoc[]
+
 include::c4model.adoc[]
+
 include::softwarearchitecturecanvas.adoc[]
+
 include::documentationascode.adoc[]

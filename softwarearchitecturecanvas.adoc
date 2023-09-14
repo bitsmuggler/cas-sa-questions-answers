@@ -1,0 +1,9 @@
+== Software Architecture Canvas
+
+=== What benefit do you get from using a Software Architecture Canvas?
+
+
+=== When do you use which canvas?
+
+
+=== What are the challenges of using a Software Architecture Canvas?
