@@ -2,8 +2,17 @@
 
 === What benefit do you get from using a Software Architecture Canvas?
 
+The Software Architecture Canvas allows you to collaboratively develop and document the software architecture of a system in an efficient way.
+
+Both the https://canvas.arc42.org/architecture-inception-canvas[Architecture Inception Canvas] and the https://canvas.arc42.org/architecture-communication-canvas[Architecture Communication Canvas] are 100% compatible with the arc42 template. This makes it easy to create advanced architecture documentation.
 
 === When do you use which canvas?
 
+*Architecture Inception Canvas*: As the name implies - use it at the beginning of a project to get a common understanding of the system to be developed.
+
+*Architecture Communication Canvas*: Use it to communicate the architecture of a system to a specific audience.
 
 === What are the challenges of using a Software Architecture Canvas?
+
+Use the Canvas as a tool to create a shared understanding or means of communication for the system that is being jointly developed. Do not use it as a substitute for detailed architectural documentation.
+
