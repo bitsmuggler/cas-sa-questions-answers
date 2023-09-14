@@ -1,1 +1,3 @@
-= CAS Software Architecture: Answers to working questiosn
+= CAS Software Architecture: Answers to working questions
+
+* xref:softwarearchitecturedocumentation.adoc[Software Architecture Documentation with arc42, C4 model and documentation as code]
