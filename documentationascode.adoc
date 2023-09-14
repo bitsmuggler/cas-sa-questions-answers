@@ -1,0 +1,20 @@
+== Documentation as Code
+
+=== What are the benefits of Documentation As Code?
+
+* Tracability
+* Code and docs in sync
+* Same tools for reviewing docs and code
+* Automated checks
+* Documentation versioning
+
+=== How do you address different stakeholders with a Documentation as Code approach?
+
+* Build different representations
+* Ship different slices of your documentation
+
+=== What are potential pitfalls with Documentation as Code?
+
+* Drawing / Modelling with diagrams as code
+* Writer should have experience with dev tooling (git etc.)
+* Collaboration tools like confluence
