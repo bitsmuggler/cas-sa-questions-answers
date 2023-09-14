@@ -1,0 +1,8 @@
+= Software Architecture Documentation with arc42, C4 Model and Documentation as Code
+
+:toc:
+
+include::arc42.adoc[]
+include::c4model.adoc[]
+include::softwarearchitecturecanvas.adoc[]
+include::documentationascode.adoc[]
