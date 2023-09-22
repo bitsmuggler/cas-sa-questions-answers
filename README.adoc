@@ -2,4 +2,4 @@
 
 In the https://www.hslu.ch/de-ch/informatik/weiterbildung/technologies-and-methods/software-architectures/[CAS Software Architecture] at https://www.hslu.ch/[the university of applied sciences in Lucerne], we are working on a number of questions. This git repository is intended to provide answers to these questions.
 
-* xref:architecturedocumentation-with-arc42-c4-docs-as-code/softwarearchitecturedocumentation.adoc[Software Architecture Documentation with arc42, C4 model and Documentation as Code]
+* xref:architecturedocumentation-with-arc42-c4-docs-as-code/softwarearchitecturedocumentation.adoc[Software Architecture Documentation with arc42, C4 model, Software Architecture Canvas and Documentation as Code]
