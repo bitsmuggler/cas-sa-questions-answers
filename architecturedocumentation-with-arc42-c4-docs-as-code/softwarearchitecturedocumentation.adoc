@@ -1,6 +1,7 @@
-= CAS SA: Software Architecture Documentation: Working questions & answers
+= Software Architecture Documentation: Working questions & answers
+:toc: auto
 
-
+<<<
 [NOTE]
 .Contribution
 ====
@@ -9,12 +10,15 @@ If you have additions, suggestions or corrections, feel free to open a pull requ
 GitHub Repository: https://github.com/bitsmuggler/cas-sa-questions-answers
 ====
 
-:toc: auto
+<<<
 
 include::arc42.adoc[]
 
+<<<
 include::c4model.adoc[]
 
+<<<
 include::softwarearchitecturecanvas.adoc[]
 
+<<<
 include::documentationascode.adoc[]

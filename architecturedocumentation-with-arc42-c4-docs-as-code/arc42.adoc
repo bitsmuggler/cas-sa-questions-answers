@@ -7,7 +7,7 @@ In real-world systems we often find >100 different quality scenarios, way too ma
 That’s why arc42 proposes to split those in two parts:
 
 * arc42 section 1.2 contains the high-priority quality requirements
-* arc42 section 10 contains all requirements, structured as a quality tree.
+* arc42 section 10 contains all quality requirements, structured as a quality tree.
 
 .Detailed answer
 [%collapsible]
