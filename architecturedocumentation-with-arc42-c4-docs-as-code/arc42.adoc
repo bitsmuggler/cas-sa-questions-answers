@@ -1,0 +1,78 @@
+== arc42
+
+=== Where are the quality requirements documented in arc42?
+
+In real-world systems we often find >100 different quality scenarios, way too many to digest all-at-once.
+
+That’s why arc42 proposes to split those in two parts:
+
+* arc42 section 1.2 contains the high-priority quality requirements
+* arc42 section 10 contains all requirements, structured as a quality tree.
+
+.Detailed answer
+[%collapsible]
+====
+https://faq.arc42.org/questions/C-1-7/
+====
+
+
+=== What is meant by “constraints”? Can you give some examples?
+
+
+Constraints limit your freedom in decisions, concerning the system or related processes.
+
+Such constraints are often imposed by organizations across multiple IT systems.
+
+*Examples*:
+
+* System has to be operated by data-center XYZ, as our company has a long-term contract with them.
+* Part of software/hardware development has to be off-shored to our Asian subdivision.
+* Our operational database system needs to be PostgreSQL.
+* System has to be implemented in Java.
+* Web Frontend has to use Angular.
+
+
+.Detailed answer
+[%collapsible]
+====
+https://faq.arc42.org/questions/C-2-1/
+====
+
+=== What is the difference between the business context and the technical context context?
+
+A short summary:
+
+Business context focuses on the purely business or domain interactions of the system with its environment. You'll often find domain terms for external interfaces, not technology.
+
+The technical context shows hardware, technical infrastructure, technical protocols, network details or similar information about the system and its (technical) environment.
+
+
+.Detailed answer
+[%collapsible]
+====
+* https://faq.arc4x.org/questions/C-3-2/
+* https://docs.arc42.org/tips/3-10/
+====
+
+=== What is meant by 'Crosscutting Concepts'? Can you give some examples?
+
+In short, instead of repeating recurring building block substructures, incorporate them into an overarching concept.
+
+.Detailed answer
+[%collapsible]
+====
+* https://docs.arc42.org/tips/5-10/
+====
+
+=== Why is the glossary not optional?
+
+
+You should make sure that everyone involved has a common understanding of the important business (and technical) terminology they use in connection with the system.
+The glossary is an expression of the general rule “better explicit than implicit”.
+
+
+.Detailed answer
+[%collapsible]
+====
+* https://faq.arc42.org/questions/C-12-1/
+====

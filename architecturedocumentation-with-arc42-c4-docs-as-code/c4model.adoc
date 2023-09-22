@@ -1,0 +1,18 @@
+== C4 Model
+
+=== Why doesn't the C4 model cover business processes or workflows?
+
+The focus of the C4 model is on the static structures that make up a software system at various levels of abstraction. If you need to describe other aspects, you can supplement the C4 diagrams with UML diagrams, BPML diagrams, ArchiMate diagrams, entity-relationship diagrams, and so on.
+
+
+=== Which C4 views are quickly becoming obsolete?
+
+Due to the hierarchical nature of the C4 model, each diagram will change at a different pace.
+
+*System Context diagram:* In most cases, the system context diagram will change very slowly because it describes the landscape in which the software system operates.
+
+*Container diagram:* Unless you're building a software system that relies heavily on microservices or serverless lambdas/functions/etc., the container diagram will also change relatively slowly.
+
+*Component diagram:* For any software system under active development, component diagrams can change frequently as the team adds, removes, or restructures code into related components. Automating the creation of this level of detail using tools can help.
+
+*Code diagram:* The level 4 code diagrams (e.g., classes) will potentially become obsolete very quickly if the code base is actively evolving. For this reason, it is recommended that you (1) not create them at all, or (2) create them as needed using a tool such as IDE.

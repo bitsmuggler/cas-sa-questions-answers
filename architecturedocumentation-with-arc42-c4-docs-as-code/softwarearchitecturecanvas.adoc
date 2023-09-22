@@ -8,7 +8,7 @@ Both the https://canvas.arc42.org/architecture-inception-canvas[Architecture Inc
 
 === When do you use which canvas?
 
-*Architecture Inception Canvas*: As the name implies - use it at the beginning of a project to get a common understanding of the system to be developed.
+*Architecture Inception Canvas*: As the name implies - use it at the beginning of a project to get a common understanding of the system being developed.
 
 *Architecture Communication Canvas*: Use it to communicate the architecture of a system to a specific audience.
 
