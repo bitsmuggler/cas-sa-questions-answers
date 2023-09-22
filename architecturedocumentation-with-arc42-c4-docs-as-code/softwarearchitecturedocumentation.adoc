@@ -1,6 +1,15 @@
 = CAS SA: Software Architecture Documentation: Working questions & answers
+
+
+[NOTE]
+.Contribution
+====
+If you have additions, suggestions or corrections, feel free to open a pull request or an issue.
+
+GitHub Repository: https://github.com/bitsmuggler/cas-sa-questions-answers
+====
+
 :toc: auto
-:url-repo: https://github.com/bitsmuggler/cas-sa-questions-answers
 
 include::arc42.adoc[]
 
