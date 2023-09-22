@@ -50,7 +50,7 @@ The technical context shows hardware, technical infrastructure, technical protoc
 .Detailed answer
 [%collapsible]
 ====
-* https://faq.arc4x.org/questions/C-3-2/
+* https://faq.arc42.org/questions/C-3-2/
 * https://docs.arc42.org/tips/3-10/
 ====
 
