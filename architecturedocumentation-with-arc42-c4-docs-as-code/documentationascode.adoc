@@ -8,12 +8,12 @@
 * Automated checks
 * Documentation versioning
 
-=== How do you address different stakeholders with a Documentation as Code approach?
+=== How do you address different stakeholders with a «Documentation as Code» approach?
 
 * Build different representations (like HTML, PDF, DocBook, …)
 * Ship different slices of your documentation for different stakeholders
 
-=== What are challenges and potential pitfalls with Documentation as Code?
+=== What are challenges and potential pitfalls with «Documentation as Code»?
 
 * Drawing / Modelling with diagrams as code
 * Writer should have experience with dev tooling (git etc.)
